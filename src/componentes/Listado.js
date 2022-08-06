@@ -63,7 +63,7 @@ export const Listado = ({listadoState, setListadoState}) => {
 
             
     })
-      : <h3>No hay peliculas</h3>
+      : <h3>No hay tareas</h3>
     }
         
 
